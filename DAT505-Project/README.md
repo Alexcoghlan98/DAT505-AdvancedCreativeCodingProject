@@ -27,3 +27,4 @@ When the project is first shown to you, you will see the planet and the backgrou
 
 ### Github Link
 github link: https://github.com/Alexcoghlan98/DAT505-Project
+github.io link: https://github.com/Alexcoghlan98/Alexcoghlan98.github.io
